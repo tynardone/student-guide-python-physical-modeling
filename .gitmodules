@@ -1,3 +1,6 @@
 [submodule "pmls-data"]
 	path = pmls-data
 	url = https://github.com/dr-kinder/pmls-data
+[submodule "code-samples"]
+	path = code-samples
+	url = https://github.com/dr-kinder/code-samples
